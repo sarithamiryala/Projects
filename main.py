@@ -1,3 +1,5 @@
+##coffee machine 
+
 import logging
 logging.basicConfig(filename= 'logfun.log', level = logging.DEBUG, format= "%(asctime)s %(message)s")
 data = {
